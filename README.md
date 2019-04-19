@@ -1,2 +1,2 @@
-# Estatistica
+# Estatística
 Ensino de estatística
